@@ -124,6 +124,7 @@ textarea {
 textarea {
 	height: 6em;
 }
+
 input:focus,
 textarea:focus {
 	outline: 3px solid #d3d3d3;
